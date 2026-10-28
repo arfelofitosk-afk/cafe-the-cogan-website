@@ -1,0 +1,24 @@
+OCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="MASUKKAN-KODE-VERIFIKASI-GOOGLE-DI-SINI">
+    <title>Cafe The Cogan</title>
+</head>
+<body>
+    <h1>Selamat Datang di Cafe The Cogan</h1>
+    <p>Tempat terbaik untuk kop dan santai bersama teman dan keluarga.</p>
+    
+    <h2>Menu Kami</h2>
+    <ul>
+        <li>Kopi Susu — Rp15.000</li>
+        <li>Es Cokelat — Rp12.000</li>
+        <li>Roti Bakar — Rp10.000</li>
+    </ul>
+    
+    <h2>Kontak</h2>
+    <p>📍 Alamat: Kota Ternate</p>
+    <p>📞 Telepon: 0812-xxxx-xxxx</p>
+</body>
+</html>
